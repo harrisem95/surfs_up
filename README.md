@@ -12,8 +12,10 @@ The purpose of the surfs up challenge is to determine the temperatures in June a
 * The average temperatures in teh months of June in July do not differ dramatically. For instance, the average temperature in June is 75 degrees and the average temperature in the month of December is 71 degrees. So in average, December is colder than June, but not by an amount that would significantly impact the business.
 * The minimum temperature in June is 64 degrees and the minimum temperature during December is 56 degrees. 56 degrees seems to be too cold to go surfing, but with a wetsuit and the proper equipment, it is still possible. 
 
-#### Surfs Up Results
+#### June Surfs Up Results
 ![June_Results](/Resources/June_temperature_statistics.png)
+
+#### December Surfs Up Results
 ![December_Results](/Resources/December_temperature_statistics.png)
 
 ## Election-Audit Summary
