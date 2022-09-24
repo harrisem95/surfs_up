@@ -13,8 +13,8 @@ The purpose of the surfs up challenge is to determine the temperatures in June a
 * The minimum temperature in June is 64 degrees and the minimum temperature during December is 56 degrees. 56 degrees seems to be too cold to go surfing, but with a wetsuit and the proper equipment, it is still possible. 
 
 #### Surfs Up Results
-![June_Results](/Resources/June_tempaerature_statistics.png)
-![December_Results](/Resources/December_tempaerature_statistics.png)
+![June_Results](/Resources/June_temperature_statistics.png)
+![December_Results](/Resources/December_temperature_statistics.png)
 
 ## Election-Audit Summary
 
